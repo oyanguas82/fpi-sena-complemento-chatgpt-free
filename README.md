@@ -4,7 +4,7 @@ Asistente independiente para crear y revisar guías GFPI-F-135 V04 en Word,
 con 68 programas, 37 proyectos formativos e instrumentos de evaluación anexos.
 
 - [Página pública](https://oyanguas82.github.io/fpi-sena-complemento-chatgpt-free/)
-- [Descargar paquete 1.0.0](https://oyanguas82.github.io/fpi-sena-complemento-chatgpt-free/descargas/guia-aprendizaje-sena-chatgpt-1.0.0.zip)
+- [Descargar paquete 1.0.1](https://oyanguas82.github.io/fpi-sena-complemento-chatgpt-free/descargas/guia-aprendizaje-sena-chatgpt-1.0.1.zip)
 - [Soporte](https://oyanguas82.github.io/fpi-sena-complemento-chatgpt-free/soporte.html)
 - [Privacidad](https://oyanguas82.github.io/fpi-sena-complemento-chatgpt-free/privacidad.html)
 - [Términos](https://oyanguas82.github.io/fpi-sena-complemento-chatgpt-free/terminos.html)
@@ -31,3 +31,12 @@ Editor: OSCAR E YANGUAS A. Soporte por Issues públicos, sin datos de aprendices
 documentos reservados. Herramienta independiente, no oficial del SENA.
 La licencia de la obra propia está en [LICENSE](LICENSE); las condiciones de
 materiales de terceros están en [NOTICE.md](NOTICE.md).
+
+## Actualización 1.0.1
+
+Añade diagnóstico y recuperación cuando el chat no puede leer los archivos de
+la instalación. Si la sesión ejecuta Python, descarga los recursos revisados o
+usa el ZIP 1.0.0 adjunto, verificando su SHA-256. No añade un servidor de
+generación ni habilita Python en sesiones que no lo ofrecen. Los generadores y
+el currículo no cambian. La recuperación se probó localmente; el flujo completo
+en Free sigue pendiente. Véase la página de soporte para los pasos.
