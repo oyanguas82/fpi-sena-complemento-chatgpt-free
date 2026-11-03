@@ -15,7 +15,7 @@ están pendientes. Descargar el ZIP no equivale a instalarlo en ChatGPT.
 
 El editor no cobra por el complemento. La generación de Word requiere que la
 sesión permita ejecutar Python y entregar archivos. La disponibilidad y los
-límites dependen de ChatGPT. No incluye servidor propio ni requiere claves API.
+límites dependen de ChatGPT. El paquete descargable 1.0.x no incluye servidor propio ni requiere claves API.
 
 Las pruebas locales verificaron el paquete, el icono, las consultas al catálogo,
 la generación Word desde la plantilla y el rechazo de criterios inventados y
