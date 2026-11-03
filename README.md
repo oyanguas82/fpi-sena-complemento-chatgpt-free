@@ -40,3 +40,15 @@ usa el ZIP 1.0.0 adjunto, verificando su SHA-256. No añade un servidor de
 generación ni habilita Python en sesiones que no lo ofrecen. Los generadores y
 el currículo no cambian. La recuperación se probó localmente; el flujo completo
 en Free sigue pendiente. Véase la página de soporte para los pasos.
+
+## Prueba privada conectada 1.1.0
+
+El complemento del propietario se actualizó para reutilizar la conexión del
+generador privado de Sites. El motor dispone de currículo y plantilla y genera
+el Word sin Python ni recuperación ZIP en el chat. Se descargó del alojamiento
+un Word real de 45 537 bytes y pasó el validador de la plantilla.
+
+La prueba completa desde una conversación normal, la conexión OAuth en ese
+flujo y el acceso desde Free siguen pendientes. La conexión privada no forma
+parte de los ZIP públicos 1.0.x. No se publican el servidor, sus fuentes ni la
+configuración privada de la aplicación en este repositorio.
